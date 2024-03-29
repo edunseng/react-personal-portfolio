@@ -5,7 +5,6 @@ This repository contains a collection of projects I've created to practice and e
 ## Personal Portfolio
 
 The `personal-portfolio` directory houses my personal portfolio website, designed to display my work, skills, and professional journey. It's built with React and demonstrates my ability to create responsive and interactive user interfaces.
-My React-based personal portfolio showcases my development projects and skills, featuring a serverless contact form powered by Google Cloud Functions. It's a living document of my professional journey, reflecting continuous growth and learning in software development. Hosted on GitHub Pages for easy access and updates.
 
 To view the portfolio, visit: [edunseng.github.io/personal-portfolio](https://edunseng.github.io/personal-portfolio)
 
